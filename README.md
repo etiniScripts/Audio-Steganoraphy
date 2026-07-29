@@ -6,9 +6,9 @@ B.Sc. Software Engineering at Topfaith University.
 
 ## Overview
 IShield conceals encrypted messages inside WAV audio files using:
-- **Enhanced Playfair Algorithm** — encrypts plaintext messages using a 10x9 
+- **Enhanced Playfair Algorithm** - encrypts plaintext messages using a 10x9 
   matrix supporting uppercase/lowercase letters, numbers, and special characters
-- **Two Least Significant Bit (2LSB) Encoding** — embeds the encrypted message 
+- **Two Least Significant Bit (2LSB) Encoding** - embeds the encrypted message 
   into the second-layer LSBs of audio samples, preserving audio quality
 
 ## Features
@@ -18,7 +18,7 @@ IShield conceals encrypted messages inside WAV audio files using:
 - Login-protected access
 
 ## Tech Stack
-Java (NetBeans IDE) for the GUI, Python for audio steganography and encryption logic.
+Java (NetBeans IDE) for the GUI
 
 ## How It Works
 1. User inputs a message and an encryption key (min. 8 characters)
@@ -33,5 +33,5 @@ audio distortion, demonstrating that combining encryption with steganography
 provides stronger protection than encryption alone.
 
 ## Author
-Etini Akaninyene Unaam — B.Sc. Software Engineering, Topfaith University (2026)
+Etini Akaninyene Unaam - B.Sc. Software Engineering, Topfaith University (2026 - In View)
 Supervisor: Mr. Emmanuel Nyoho
