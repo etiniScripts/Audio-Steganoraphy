@@ -1,4 +1,4 @@
-# IShield: Encoder/Decoder Steganographic Model
+# IShield: Encoder/Decoder Audio Steganographic Model
 
 An encoder/decoder system for protecting sensitive information by combining 
 cryptography with audio steganography. Built as a final year project for 
